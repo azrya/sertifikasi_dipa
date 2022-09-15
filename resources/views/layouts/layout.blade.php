@@ -18,7 +18,7 @@
             margin: 0;
             padding: 0;
             width: 200px;
-            background-color: #ffa500;
+            background-color: #ffa600;
             position: fixed;
             height: 100%;
             overflow: auto;
